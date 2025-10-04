@@ -1,0 +1,16 @@
+📊 From Data to Insights with Tableau
+
+In this dashboard, I transformed raw business data into a clear, interactive story:
+
+Departments Performance: Each department’s contribution is visualized, with Marketing and Finance leading while IT slightly lags behind. This helps decision-makers identify where to allocate resources.
+
+Geographical Distribution: A map highlights business presence across Egypt and nearby regions, making it easy to spot areas with strong or weak performance.
+
+Payment Methods: Visualizing how customers pay (Credit Card, Cash, Cheque, Bank Transfer) shows a nearly balanced distribution, valuable for financial planning and payment strategy.
+
+Currency Analysis: Transactions span multiple currencies (EGP, EUR, GBP, USD), revealing the company’s global operations and exposure to exchange rates.
+
+Revenue Trends by Quarter: Tracking revenue over time highlights stable growth with slight fluctuations, giving management a forward-looking view of performance.
+
+💡 The Value:
+This dashboard turns complex data into a story of growth, customer behavior, and operational insight. With just a glance, stakeholders can see where money is coming from, how it’s paid, and where the company is heading.
